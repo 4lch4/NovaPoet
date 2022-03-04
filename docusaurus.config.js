@@ -27,9 +27,6 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/4lch4/Nova-Poetry/',
           routeBasePath: '/'
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css')
         }
       })
     ]
