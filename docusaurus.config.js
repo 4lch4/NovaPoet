@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'Nova Poetry',
   tagline: 'The poetry and prose of Nova.',
-  url: 'https://nova-poetry.4lch4.cloud',
+  url: 'https://novapoet.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
